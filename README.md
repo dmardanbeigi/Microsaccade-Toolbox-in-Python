@@ -37,7 +37,8 @@ jupyter contrib nbextension install --user
 
 ## Authors
 
-* **Dr. Diako Mardanbegi** <dmardanbeigi at gmail dot com>
+* **Dr. Diako Mardanbegi** 
+<dmardanbeigi at gmail dot com>
 http://www.dmardanbegi.com
 
 ## License
