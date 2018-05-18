@@ -5,7 +5,7 @@ The microsaccades are extracted seperatly for the left and the right eye and bin
 Monocular microsaccades are filtered based on the amplitude, duration and peak velocity criteria defined by the user.
 A secondary step of filtering will be applied on the remaining candidates based on the RANSAC linrear regression on the main sequence and all the outliers will be removed based on this. 
 
-![](https://github.com/dmardanbeigi/Microsaccade-Toolbox-in-Python/blob/master/Screen Shot.png)
+![](https://github.com/dmardanbeigi/Microsaccade-Toolbox-in-Python/blob/master/ScreenShot.png)
 ![](https://github.com/dmardanbeigi/Microsaccade-Toolbox-in-Python/blob/master/MainSequence.png)
 
 
